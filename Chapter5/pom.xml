@@ -8,5 +8,7 @@
     <artifactId>Chapter5</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <modules>
+        <module>Chapter5</module>
+    </modules>
 </project>
