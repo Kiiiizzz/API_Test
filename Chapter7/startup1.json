@@ -1,0 +1,21 @@
+[
+  {
+    "description": "第一个moco例子",
+    "request": {
+      "uri": "/demo"
+    },
+    "response": {
+      "text": "第一个demo0000"
+    }
+  },
+  {
+    "description": "get请求",
+    "request": {
+      "uri": "/getdemo",
+      "method": "get"
+    },
+    "response": {
+      "text": "没有参数的get请求"
+    }
+  }
+]
