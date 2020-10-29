@@ -7,8 +7,10 @@
     },
     "response": {
       "cookies": {
-        "login": "true"
-      }
+        "login": "true",
+        "text": "232323"
+      },
+      "text": "成功获得cookiesss"
     }
   },
   {
